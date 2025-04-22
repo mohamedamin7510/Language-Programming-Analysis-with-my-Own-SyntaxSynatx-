@@ -1,3 +1,3 @@
-# Check Syntax For My Own Programmin Language
+# Check The Syntax For My Own Programmin Language
 - 
  
